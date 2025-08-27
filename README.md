@@ -56,5 +56,4 @@ int main(void) {
 }
 
 
-![ Görsel](https://github.com/user-attachments/assets/707a0578-1749-4515-aade-2b71222cc0a2)
 
