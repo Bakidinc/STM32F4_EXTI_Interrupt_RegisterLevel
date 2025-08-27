@@ -56,8 +56,4 @@ int main(void) {
 }
 
 
-## 🖼️ Hardware Setup
 
-MZ80 IR sensor connected to PC7:
-
-![MZ80 IR Sensor](./Setup.jpg)
