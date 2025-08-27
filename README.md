@@ -60,4 +60,4 @@ int main(void) {
 
 MZ80 IR sensor connected to PC7:
 
-![MZ80 IR Sensor](./mz80.jpg)
+![MZ80 IR Sensor](./Setup.jpg)
